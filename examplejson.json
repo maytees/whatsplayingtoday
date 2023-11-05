@@ -1,0 +1,1772 @@
+[
+    {
+      "Month": "Month",
+      "Date": null,
+      "Year": null,
+      "Day": "Day",
+      "Day Color": "Day Color",
+      "Songs": "Songs",
+      "Location": "Location",
+      "Notes": "Notes"
+    },
+    {
+      "Month": "October",
+      "Date": 27,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "SNL - David S Pumpkins_MDobbs (2022-2023)",
+      "Location": "Holiday SongsHalloween",
+      "Notes": ""
+    },
+    {
+      "Month": "October",
+      "Date": 30,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "ThisIsHalloween_01",
+      "Location": "Holiday SongsHalloween",
+      "Notes": ""
+    },
+    {
+      "Month": "October",
+      "Date": 31,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "MonsterMash",
+      "Location": "Holiday SongsHalloween",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 1,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "Lumi Athena - ICEWHORE! (slowed) (longer proper edit)_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": "Instrumental. Dont be alarmed by the name"
+    },
+    {
+      "Month": "November",
+      "Date": 2,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "London Music Works from the Soundtrack of Butch Cassidy and the Sundance Kid - South American Getaway_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 3,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "Daft Punk - Around the World_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 6,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 7,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 8,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "Patrice Rushen - Forget Me Nots (mediocre loop)_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 9,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "Valve Studio Orchestra - It Hates Me So Much_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": "\"In case of rain: play \"\"oliver_raindropskeepfallingonmyhead\"\"\""
+    },
+    {
+      "Month": "November",
+      "Date": 10,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "The Allman Brothers - Jessica_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 13,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "Sandy Marton - Camel by Camel_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 14,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "Homeward Bound: King Arthur's Theme - San Fernando Symphonic Assembly_Oliver (2023-2024)",
+      "Location": "2023_24 New Songs",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 15,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "Valve Studio Orchestra - Intruder Alert!_Oliver (2023-2024)",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 16,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": "\"In case of rain: play \"\"oliver_raindropskeepfallingonmyhead\"\"\""
+    },
+    {
+      "Month": "November",
+      "Date": 17,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 20,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": "\"In case of rain: play \"\"oliver_raindropskeepfallingonmyhead\"\"\""
+    },
+    {
+      "Month": "November",
+      "Date": 21,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 22,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 23,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 24,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 27,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 28,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 29,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "November",
+      "Date": 30,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 1,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 4,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 5,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 6,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 7,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 8,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 11,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 12,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 13,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 14,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 15,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 18,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 19,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 20,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 21,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 22,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 25,
+      "Year": 2023,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 26,
+      "Year": 2023,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 27,
+      "Year": 2023,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 28,
+      "Year": 2023,
+      "Day": "Thursday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "December",
+      "Date": 29,
+      "Year": 2023,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 1,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 2,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 3,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 4,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 5,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 8,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 9,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 10,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 11,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 12,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 15,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 16,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 17,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 18,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 19,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 22,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 23,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 24,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 25,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 26,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 29,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 30,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "January",
+      "Date": 31,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 1,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 2,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 5,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 6,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 7,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 8,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 9,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 12,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 13,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 14,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 15,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 16,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 19,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 20,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 21,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 22,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 23,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 26,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 27,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 28,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "February",
+      "Date": 29,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 1,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 4,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 5,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 6,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 7,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 8,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 11,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 12,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 13,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 14,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 15,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 18,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 19,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 20,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 21,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 22,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 25,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 26,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 27,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 28,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "March",
+      "Date": 29,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 1,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 2,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 3,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 4,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 5,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 8,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 9,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 10,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 11,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 12,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 15,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 16,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 17,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 18,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 19,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 22,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 23,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 24,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 25,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 26,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 29,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "April",
+      "Date": 30,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 1,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 2,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 3,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 6,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 7,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 8,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 9,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 10,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 13,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 14,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 15,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 16,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 17,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 20,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 21,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 22,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 23,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 24,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 27,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 28,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 29,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 30,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "May",
+      "Date": 31,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "",
+      "Date": null,
+      "Year": null,
+      "Day": "",
+      "Day Color": "",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 3,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 4,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 5,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 6,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 7,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 10,
+      "Year": 2024,
+      "Day": "Monday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 11,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Blue",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 12,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Green",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 13,
+      "Year": 2024,
+      "Day": "Thursday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 14,
+      "Year": 2024,
+      "Day": "Friday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 18,
+      "Year": 2024,
+      "Day": "Tuesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    },
+    {
+      "Month": "June",
+      "Date": 19,
+      "Year": 2024,
+      "Day": "Wednesday",
+      "Day Color": "Yellow",
+      "Songs": "",
+      "Location": "",
+      "Notes": ""
+    }
+  ]
